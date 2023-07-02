@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(174, 241, 241);
+}
+#photo{
+    shape-outside: circle();
+    border-radius: 50px;
+}
+br{
+    width: 10px;
+    position: absolute;
+    left: 25%;
+}
